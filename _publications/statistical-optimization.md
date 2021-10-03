@@ -8,7 +8,7 @@ venue: 'International Journal of Civil Engineering and Technology'
 paperurl: 
 citation: 
 ---
-# This paper is about the number 1. The number 2 is left for future work.
+
 
 This work involve preliminary investigations into the flow behavior of starch. If starch would one day be a potential substitute for plastics, then there is a need to understand its flow behavior. Hence, rheological model characterization.
 
