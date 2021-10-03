@@ -2,7 +2,7 @@
 title: "Statistical optimization and sensitivity analysis of rheological models using cassava starch"
 collection: publications
 permalink: /publication/statistical-optimization
-excerpt: 
+excerpt: ""
 date: 2019-10-01
 venue: 'International Journal of Civil Engineering and Technology'
 paperurl: 
