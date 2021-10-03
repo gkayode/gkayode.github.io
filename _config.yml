@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kay"
-  avatar           : "my_bio.png"
+  avatar           : "/images/Kay.jpg"
   bio              : "PhD Chemical Engineering @ Tulane University"
   location         : "New orleans, Louisiana"
   employer         :
