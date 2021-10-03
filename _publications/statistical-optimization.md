@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
 
-[Rheopt](/images/rheopt.png)
+![Rheopt](/images/rheopt.png)
 This work involves preliminary investigations into the flow behavior of starch. If starch would one day be a potential substitute for plastics, then there is a need to understand its flow behavior. Hence, rheological model characterization.
 
 [Download paper here](https://www.researchgate.net/publication/330779009_Article_ID_IJCIET_10_01_057_Statistical_Optimization_and_Sensitivity_Analysis_of_Rheological_Models_Using_Cassava_Starch)
