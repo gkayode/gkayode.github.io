@@ -9,7 +9,7 @@ paperurl:
 citation:
 ---
 ![general screening](/images/gen_screen.png)
-We created an efficient, robust ML framework to screen a vast number of alloys for their catalytic performance. This framework allows predictions without any quantum calculations. Further we applied our framework to screen more than 10<sup>7</sup> unique surface sites on approximately 106 unique surfaces for 7 important reactions.
+We created an efficient, robust ML framework to screen a vast number of alloys for their catalytic performance. This framework allows predictions without any quantum calculations. Further we applied our framework to screen more than 10<sup>7</sup> unique surface sites on approximately 10<sup>6</sup> unique surfaces for 7 important reactions.
 
 [Download paper here](http://dx.doi.org/10.1039/D0CY00682C)
 
