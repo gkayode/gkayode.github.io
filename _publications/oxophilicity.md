@@ -10,7 +10,7 @@ citation:
 ---
 ![oxophilicity](/images/oxophilicity.png)
 
-We successfully created a general, intepretable, and accurate model to investigate oxophilic and carbophilic tendencies in pure metal surfaces. Our model is highly intepretable and accurately captures oxophilic and carbophilic trends across different regions of the periodic table. We also used our model to rationalize dopant selectivity trends for ethylene epoxidation and also screen for new dopant candidates for this reaction.
+We successfully created a general, intepretable, and accurate model to investigate oxophilic and carbophilic tendencies on pure metals (Bulk & surfaces). Our model is highly intepretable and accurately captures oxophilic and carbophilic trends across different regions of the periodic table. We also used our model to rationalize dopant selectivity trends for ethylene epoxidation and also screen for new dopant candidates for this reaction.
 
 [Download paper here](http://xlink.rsc.org/?DOI=D1TA06453C)
 
