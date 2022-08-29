@@ -15,4 +15,4 @@ We successfully created a general, intepretable, and accurate model to investiga
 [Download paper here](http://xlink.rsc.org/?DOI=D1TA06453C)
 
 
-Recommended citation: M. M. Montemore, C. F. Nwaokorie and G. O. Kayode, Catal. Sci. Technol., 2020, 10, 4467–4476.
+Recommended citation: G. O. Kayode and M. M. Montemore, J. Mater. Chem. A, 2021, 9, 22325–22333.
