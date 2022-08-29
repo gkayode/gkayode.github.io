@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemical Engineering, Covenant University, 2016
+* M.S. in Chemical & Biomolecular Engineering, Tulane University, 2022
+* Ph.D in Chemical & Biomolecular Engineering, Tulane University, Present
 
 Work experience
 ======
