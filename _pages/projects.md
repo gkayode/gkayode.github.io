@@ -11,7 +11,7 @@ redirect_from:
 
 ## 1. Computational chemistry
 ---
-### - Latent-variable machine learning framework
+### a. Latent-variable machine learning framework
 
 ![title](/images/latent_variable_2.png)
 
@@ -24,7 +24,7 @@ An implementation of this framework for predicting bulk and surface adsorption e
 Models were deployed using streamlit
 
 ---
-### - Alloy screening with machine learning
+### b. Alloy screening with machine learning
 
 ![title](/images/gen_screen_2.png)
 
@@ -37,7 +37,7 @@ An implementation of this framework for predicting bulk and surface adsorption e
 Models were deployed using streamlit
 
 ---
-### - Bayesian optimization for Single-atom alloy discoveries
+### c. Bayesian optimization for Single-atom alloy discoveries
 
 ![title](/images/bayesian_optimization.png)
 
@@ -46,7 +46,7 @@ In this study, Bayesian optimization (BO) to aid is employed in our quest for hi
 The publication for this work can be accessed [here]().
 
 ---
-### - ML in understanding oxophilicity and carbophilicity in metals
+### d. ML in understanding oxophilicity and carbophilicity in metals
 
 ![title](/images/oxophilicity_3.png)
 
@@ -54,13 +54,14 @@ In this work, we elucidate the factors that control how oxophilic or carbophilic
 As a simple application, we demonstrate the utility of oxophilicity and carbophilicity in rapidly screening metal dopants for improved selectivity for ethylene epoxidation on silver-based catalysts.
 
 The publication for this work can be accessed [here](https://pubs.rsc.org/en/content/articlelanding/2021/ta/d1ta06453c).
+
 ---
 
 
 ## 2. Paid Projects
 ---
 
-### - Product delivery date prediction for an e-commerce company
+### a. Product delivery date prediction for an e-commerce company
 
 ![title](/images/delivery_date.png)
 
