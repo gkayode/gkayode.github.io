@@ -21,7 +21,7 @@ This project involved the creation of a novel machine learning framework that in
 The publication for this work can be accessed [here]().
 An implementation of this framework for predicting bulk and surface adsorption energies is deployed [here]() with the source code accessible in my [group's repository](https://bitbucket.org/mmmontemore/surfep/src/master/).
 
-Models were deployed using streamlit
+Models were deployed using streamlit.
 
 ---
 ### b. Alloy screening with machine learning
