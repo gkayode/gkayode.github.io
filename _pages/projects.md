@@ -19,7 +19,7 @@ redirect_from:
 This project involved the creation of a novel machine learning framework that incorporates chemical principles and facilitates the development of general, interpretable, and reusable models. The framework leverages latent variables to construct a series of submodels, each of which tackles a relatively straightforward learning task. This approach enhances data-efficiency and encourages transfer learning. Moreover, the architecture is grounded in fundamental chemical principles, such as the concept of elements as distinct entities.
 
 The publication for this work can be accessed [here]().
-An implementation of this framework for predicting bulk and surface adsorption energies is deployed [here]() with the source code accessible in my [group's repository](https://bitbucket.org/mmmontemore/surfep/src/master/).
+An implementation of this framework for predicting bulk and surface adsorption energies is deployed [here](https://surfep.streamlit.app/) with the source code accessible in my [group's repository](https://bitbucket.org/mmmontemore/surfep/src/master/).
 
 Models were deployed using streamlit.
 
@@ -32,7 +32,7 @@ Models were deployed using streamlit.
 Here, an efficient, robust ML framework capable  screening a vast number of alloys for their catalytic performance is created. This framework allows predictions without any quantum calculations. Further we applied our framework to screen more than 10<sup>7</sup> unique surface sites on approximately 10<sup>6</sup> unique surfaces for 7 important reactions. Furthermore, alloy surfaces with high predicted catalytic performance are identified.
 
 The publication for this work can be accessed [here](https://pubs.rsc.org/en/content/articlelanding/2020/CY/D0CY00682C).
-An implementation of this framework for predicting bulk and surface adsorption energies is deployed [here]() with the source code accessible in my [group's repository](https://bitbucket.org/mmmontemore/surfep/src/master/).
+An implementation of this framework for predicting bulk and surface adsorption energies is deployed [here](https://surfep.streamlit.app/) with the source code accessible in my [group's repository](https://bitbucket.org/mmmontemore/surfep/src/master/).
 
 Models were deployed using streamlit
 
