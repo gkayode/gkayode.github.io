@@ -39,11 +39,11 @@ Models were deployed using streamlit
 ---
 ### c. Bayesian optimization for Single-atom alloy discoveries
 
-![title](/images/bayesian_optimization.png)
+![title](/images/BO_TOC.png)
 
-In this study, Bayesian optimization (BO) to aid is employed in our quest for high-performance catalysts. Our results indicate that this BO process can be initiated with just a small dataset of 2 to 8 data-points and can often rapidly identify the optimal single-atom alloy surface within a few iterations. This approach was successfully implemented to efficiently explore multiple datasets and adsorption systems and outperformed a random search strategy. In practical applications, this BO process was used to identify optimal catalysts for both alkane transformations and CO2 reduction. 
+In this study, Bayesian optimization (BO) is employed in our quest for high-performance catalysts. Our results indicate that this BO process can be initiated with just a small dataset of 2 to 8 data-points and can often rapidly identify the optimal single-atom alloy surface within a few iterations. This approach was successfully implemented to efficiently explore multiple datasets and adsorption systems and outperformed a random search strategy. In practical applications, this BO process was used to identify optimal catalysts for both alkane transformations and CO2 reduction. 
 
-The publication for this work can be accessed [here]().
+The publication for this work can be accessed [here](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta02830e).
 
 ---
 ### d. ML in understanding oxophilicity and carbophilicity in metals
