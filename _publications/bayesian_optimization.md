@@ -3,7 +3,7 @@ title: "Bayesian optimization of single-atom alloys and other bimetallics: effic
 collection: publications
 permalink: /publication/bayesian_optimization
 excerpt: ''
-date: 2023-29-08
+date: 2023-08-29
 venue: 'Journal of Materials Chemistry A'
 paperurl:
 citation:
