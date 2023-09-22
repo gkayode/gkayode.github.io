@@ -8,7 +8,7 @@ venue: 'Journal of Materials Chemistry A'
 paperurl:
 citation:
 ---
-![Bayesian optimization](/images/bayesian_optimization.png)
+![Bayesian optimization](/images/BO_TOC.png)
 
 We leveraged Bayesian optimization (BO) to search for potential high-performing catalysts. Our BO workflow can be initialized with as few as 2 to 8 data points, and often identifies the optimal single-atom alloy surface in just a few iterations. For applications, we used BO to identify potential high-performing catalysts for alkane transformations, CO2 reduction, and hydrogen evolution.
 
