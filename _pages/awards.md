@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!--
+<!---
 ![title](/images/gold_trophy.jpeg)
 -->
 * 2023 Award, Connolly Alexander Institute for Data Science (CAIDS)
