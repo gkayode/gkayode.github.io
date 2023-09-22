@@ -9,7 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<!---
 ![title](/images/gold_trophy.jpeg)
+-->
+* 2023 Award, Connolly Alexander Institute for Data Science (CAIDS)
+* 2022 AICHE Mac Award, American institute of chemical engineers.
+*	2022 Outstanding PhD Award, CBE, Tulane University.
 * 2022 Graduate scholarship, Society for Mining, Metallurgy & Exploration. 
 *	2022 NSBE Fulfilling Legacy Award, National Society of Black Engineers 
 *	2022 NSBE BCA/Affiliate/ Fellows Scholarship, National Society of Black Engineers 
