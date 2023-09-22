@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-
+<!--
 ![title](/images/gold_trophy.jpeg)
+-->
 * 2023 Award, Connolly Alexander Institute for Data Science (CAIDS)
 * 2022 AICHE Mac Award, American institute of chemical engineers.
 *	2022 Outstanding PhD Award, CBE, Tulane University.
