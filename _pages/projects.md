@@ -30,7 +30,7 @@ A sample code used for preprocessing is showed [here](https://drive.google.com/f
 
 This project involved time-series analysis & forecast for the company's core  product called "Card-Linked Offer". More specifically, the project involved aggregating data from multiple sources, cleaning & parsing, then building robust forecast models. One major question I sought to provide an answer to was: "Who will be the top 3 best-performing merchants for Q1 2024?"
 
-A reprository containing just the CLO forcast aspect of the project can be accessed [here](https://github.com/gkayode/clo_forecast)
+A repository containing just the CLO forcast aspect of the project can be accessed [here](https://github.com/gkayode/clo_forecast)
 
 ---
 
@@ -38,10 +38,10 @@ A reprository containing just the CLO forcast aspect of the project can be acces
 
 ![title](/images/urine_test.png)
 
-The objective of this project is to perform an exploratory data analysis (EDA) on a different bio datasets e.g urine test samples. For the urine test dataset,  some specific questions to be answered were: 
--What were the amount of samples resistant/ sensitive to each antibiotic?
--The presence of each resistance gene accross the samples
--The distribution of cell counts for each organism.
+The objective of this project is to perform an exploratory data analysis (EDA) on different bio datasets e.g urine test samples. For the urine test dataset,  some specific questions to be answered were: 
+What were the amount of samples resistant/ sensitive to each antibiotic?
+;The presence of each resistance gene accross the samples
+;The distribution of cell counts for each organism.
 
 Unit tests were also written to ensure the accuracy and integrity of data manipulations.
 
