@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/resume_3.pdf" width="600" height="700" type='application/pdf'>
+Available upon request.
+
+<!-- <embed src="{{ site.baseurl }}/files/resume_3.pdf" width="600" height="700" type='application/pdf'>  -->
